@@ -1,0 +1,6 @@
+{
+  "description": "",
+  "dependencies": {
+    "ecdsa": "^0.7.0"
+  }
+}
